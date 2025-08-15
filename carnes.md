@@ -9,3 +9,8 @@ La cocina carnes es famosa por sus sabores frescos y auténticos, basados en ing
 ## Bebidas Recomendadas
 - Limonada con llerba buena.
 - Agua con gas.
+
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
