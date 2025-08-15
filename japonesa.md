@@ -13,3 +13,7 @@ La cocina Japonesa es famosa por sus sabores dulces y auténticos, basados en in
 - Vino tinto Chianti.
 - Agua con gas.
 - Limoncello como digestivo.
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
