@@ -13,3 +13,8 @@ La cocina mexicana es famosa por sus sabores picantes y auténticos, basados en 
 - Gaseosa.
 - Agua con gas.
 - Limonada.
+
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
