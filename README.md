@@ -12,3 +12,8 @@ La cocina india es famosa por sus sabores frescos y auténticos, basados en ingr
 - Limonada con llerba buena.
 - Agua con gas.
 - Limonada de coco.
+
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
