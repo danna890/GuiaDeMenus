@@ -5,3 +5,7 @@ La cocina carnes es famosa por sus sabores frescos y auténticos, basados en ing
 ## Platos Principales
 - **Arroz**: Con tomate, peroni y queso.
 - **Pasta**: Espaguetis en salsa tomate y pimienta.
+
+## Bebidas Recomendadas
+- Limonada con llerba buena.
+- Agua con gas.
