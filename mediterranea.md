@@ -12,3 +12,8 @@ La cocina Mediterranea es famosa por sus sabores frescos y auténticos, basados 
 - Limonada con llerba buena.
 - Agua con gas.
 - Cerveza.
+
+
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
