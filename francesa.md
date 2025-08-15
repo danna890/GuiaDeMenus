@@ -7,3 +7,9 @@ La cocina francesa es famosa por sus sabores frescos y auténticos, basados en i
 - **Arroz**: Con tomate, peroni y queso.
 - **Pasta**: Espaguetis en salsa tomate y pimienta.
 - **Pan**: cremoso con champiñones.
+
+## Bebidas Recomendadas
+- Limonada con llerba buena.
+- Agua con gas.
+- Cerveza.
+
